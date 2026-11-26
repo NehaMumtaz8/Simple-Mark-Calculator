@@ -1,3 +1,2 @@
-## Continuous Integration
-
-This project uses Github actions for continuous integration
+## Version Control practice
+This project uses Github actions for version control
